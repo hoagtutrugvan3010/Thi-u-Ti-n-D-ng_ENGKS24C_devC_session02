@@ -3,9 +3,9 @@ int main(){
 	// so nguyen	
 	int soNguyen;
 	// so thuc
-	float age;	
+	float soThuc;	
 	// ki tu
-	char a;
+	char kiTu;
 	// so thuc , do chinh xac cao hon
 	double place;
 	
